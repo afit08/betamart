@@ -30,7 +30,7 @@ class auth extends CI_Controller
                         redirect('admin/dasboard_admin');
                         break;
                     case 2:
-                        redirect('welcome');
+                        redirect('home/face3');
                         break;
                     default:
                         break;
